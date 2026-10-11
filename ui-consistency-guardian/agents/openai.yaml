@@ -1,0 +1,7 @@
+interface:
+  display_name: "UI Consistency Guardian"
+  short_description: "Keeps frontend UI, typography, tokens, and design language consistent."
+  brand_color: "#3B82F6"
+  default_prompt: "Use $ui-consistency-guardian to review this UI work for design-system, typography, spacing, color, and component consistency."
+policy:
+  allow_implicit_invocation: true

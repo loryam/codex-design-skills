@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Meaningful Interfaces"
+  short_description: "Create expressive, intuitive product interfaces"
+  default_prompt: "Use $design-meaningful-interfaces to redesign this screen so the visual hierarchy communicates its purpose before explanatory copy is needed."
